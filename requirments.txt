@@ -1,0 +1,11 @@
+Tensorflow
+opencv_python
+meadiapipe
+pandas
+sklearn
+xlrd
+numpy
+keras
+pickle
+math
+csv
